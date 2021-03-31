@@ -5,4 +5,4 @@
 다운로드 하셔서, 자유롭게 사용하세요.
 
 
-These files are source codes which have been used in Robotics (2021, Spring, Sogang University)
+These files are source codes that have been used in Robotics (2021, Spring, Sogang University)
